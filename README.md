@@ -1,5 +1,8 @@
 # arXiv LaTeX Downloader
 
+![alt text](image.png)
+![alt text](image-1.png)
+
 **arXiv LaTeX Downloader** is a Python desktop application that allows users to easily download and consolidate LaTeX source files from arXiv submissions. Ideal for researchers who want to use them as LLM inputs.
 
 ## Features
